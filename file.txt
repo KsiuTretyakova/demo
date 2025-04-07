@@ -1,7 +1,7 @@
 "Hello World" 
 "Change feature branch" 
-<<<<<<< HEAD
+
 "Change master branch after new" 
-=======
+
 "Change new branch" 
->>>>>>> new
+
